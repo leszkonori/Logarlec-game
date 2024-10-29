@@ -2,7 +2,9 @@
 
 A projekt egy egyetemi tárgy feladatát valósítja meg, melyet 5 fős csapatban oldottunk meg.
 
-A feladat leírása adott volt, annak megfelelő, egyszerűsített grafikus interface-szel rendelkező játékprogramot kellett megvalósítanunk. A tervezés közepén módosításokat is kaptunk a fejlesztéshez, amiket abszolválnunk kellett (lsd. a leírás végén).
+A feladat leírása adott volt, annak megfelelő, egyszerűsített grafikus interface-szel rendelkező játékprogramot kellett megvalósítanunk. A tervezés közepén módosításokat is kaptunk a fejlesztéshez, amiket abszolválnunk kellett (ld. a leírás végén).
+
+A GUI működésének leírása a *grafikus_spec.docx* fájlban olvasható.
 
 # Futtatási útmutató
 
