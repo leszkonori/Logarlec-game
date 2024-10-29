@@ -1,0 +1,10 @@
+
+Z
+java:S1854"8Remove this useless assignment to local variable "door".(Éœñ½ûÿÿÿÿ8¶Ò–—æ1
+K
+java:S1481")Remove this unused "door" local variable.(Éœñ½ûÿÿÿÿ8ÅÒ–—æ1
+G	java:S106%"+Replace this use of System.out by a logger.(È–ìĞ8ÅÒ–—æ1
+L	java:S106'"+Replace this use of System.out by a logger.(¡Œ‚äúÿÿÿÿ8ÅÒ–—æ1
+L	java:S106."+Replace this use of System.out by a logger.(®ëÎ§úÿÿÿÿ8ÅÒ–—æ1
+L	java:S106;"+Replace this use of System.out by a logger.(üÿÃŒıÿÿÿÿ8ÅÒ–—æ1
+L	java:S106D"+Replace this use of System.out by a logger.(®ëÎ§úÿÿÿÿ8ÕÒ–—æ1
